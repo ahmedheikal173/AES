@@ -9,4 +9,4 @@ Verilog code to process 16 bytes of data at once. This was accomplished by creat
 including substitution, permutation, and mixing.
 To encrypt or decrypt data, the Verilog code takes in a 128-bit key, which is expanded 
 into a series of round keys using a key schedule. The round keys are then used in each 
-round of the AES algorithm to transform the data block
+round of the AES algorithm to transform the data block.
